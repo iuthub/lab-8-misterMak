@@ -2,9 +2,14 @@
 
 ## Student Details
 
-- Student ID: `your id`
-- Student Name: `your name`
-- Section Number: `you section number`
+- **Student ID**: `u1610142`
+- **Student Name**: `MIRKAMOL KHAMIDOV`
+- **Section Number**: `001`
+
+
+
+
+
 
 ## Tasks
 Finish following tasks in this project:
@@ -20,6 +25,6 @@ Finish following tasks in this project:
 ## Usage
 Simply clone this repo and run `composer install` to install all the required dependencies. Make sure to rename the `.env.example` file to `.env` and also run `php artisan key:generate` to generate an application key for this Laravel app.
 
-# Reference
+## Reference
 This repository is forked from the starting source code of the "PHP Development with Laravel - Working with Models & Data" course on Pluralsight by Max Schwazmueller [@mschwarzmueller](https://github.com/mschwarzmueller/pluralsight-laravel-getting-started).
 
